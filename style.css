@@ -1,0 +1,68 @@
+body
+{
+}
+.logo {
+    height: 50px;
+    background-color:black;
+    
+   
+}
+.logo p{
+    padding:15px; 
+    font-size: 20px;
+    color:white;
+}
+span{
+    font-size:15px;
+    color:crimson;
+}
+.container {
+    height: 600px;
+    background-image: url(https://www.sapphirewebsolutions.com/wp-content/uploads/2019/09/Web-Development-Trends.jpg);
+    background-size: cover;
+}
+.container1{
+    opacity:1.0;
+    padding-top:50px;
+    width:400px;
+    color:white;
+    margin:0 auto;
+    margin-right:4px;
+}
+.html{
+    text-align:center;
+    height:400px;
+    width:100%;
+    margin:6px;
+    background-color:antiquewhite;
+    padding:30px;
+
+}
+.css {
+    text-align: center;
+    height: 400px;
+    width: 100%;
+    margin: 6px;
+    background-color: coral;
+    padding: 30px;
+}
+.jss {
+    text-align: center;
+    height: 400px;
+    width: 100%;
+    margin: 6px;
+    background-color: cornflowerblue;
+    padding: 30px;
+    margin-bottom:0px;
+}
+.thank{
+    background-color:black;
+    color:crimson;
+    height:40px;
+    width:100%;
+    font-size:17px;
+    text-align:center;
+    padding-top:10px;
+    margin:6px;
+}
+
